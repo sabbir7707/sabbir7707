@@ -1,9 +1,11 @@
 <img  src="https://i.ibb.co/ZfBhwkT/Untitled-design.png"/>
 
-<a href="https://github.com/sabbir7707"><img src="https://github-readme-streak-stats.herokuapp.com?user=&theme=transparent" alt="GitHub Streak" /></a>
 
-<h3 align="center ">Connect with me:</h3>
-<hr>
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://github.com/sabbir7707)
+
+<h3  align="center "> <hr>Connect with me:</h3>
+
 <p align="center">
 <a href="https://twitter.com/@sabbirh90739675" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@sabbirh90739675" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sabbir hosain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sabbir hosain" height="30" width="40" /></a>
