@@ -18,23 +18,21 @@
 
 <!-- [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/sabbir7707/langs)](https://githubtrends.io) -->
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sabbir7707&theme=blue_green)
+
 
 <div align="center">
 
-<a   align="center " ><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sabbir7707&theme=blue_green"/></a>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sabbir7707)](https://github.com/sabbir7707)
-
-
-[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=sabbir7707&show_icons=true)](https://github.com/sabbir7707)
-
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sabbir7707&theme=blue_green)
+
+</div>
+<div align="left">
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sabbir7707&theme=blue_green)
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sabbir7707&theme=blue_green)
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sabbir7707&theme=blue_green)
 
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sabbir7707&theme=blue_green&utcOffset=8)
 
 </div>
