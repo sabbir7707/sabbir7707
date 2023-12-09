@@ -68,7 +68,7 @@
 
 # BRANDSHOP
 
-## Add at least 5 Project features
+## Added some features to the project
 
 - Six types of cards are shown on the home page
 - Add Product System where products can be added
@@ -85,7 +85,7 @@
 
 
 # Online-Group-Study
-## Add at least 5 Project features:
+## Added some features to the project
 
 
 - Login features
