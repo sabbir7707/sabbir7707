@@ -2,7 +2,7 @@
 
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://github.com/sabbir7707)
+[![GitHub Streak](https://github.com/sabbir7707/?user=DenverCoder1&theme=dark)](https://github.com/sabbir7707)
 
 <h3  align="center "> <hr>Connect with me:</h3>
 
