@@ -1,6 +1,7 @@
 <img  src="https://i.ibb.co/ZfBhwkT/Untitled-design.png"/>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=&theme=transparent)](https://github.com/sabbir7707)
+<a href="https://github.com/sabbir7707"><img src="https://github-readme-streak-stats.herokuapp.com?user=&theme=transparent" alt="GitHub Streak" /></a>
+
 <h3 align="center ">Connect with me:</h3>
 <hr>
 <p align="center">
