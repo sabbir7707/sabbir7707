@@ -1,8 +1,12 @@
 <img  src="https://i.ibb.co/ZfBhwkT/Untitled-design.png"/>
 <h3   align="left "> Current Stats:</h3>
 <hr>
+
+
+<div align="center " >
 <a   align="center " href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=sabbir7707&theme=merko" alt="GitHub Streak" /></a>
 
+</div>
 
 <h3  align="center "> Connect with me:</h3>
 
@@ -25,7 +29,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sabbir7707&theme=blue_green)
 
 </div>
-<div  className =" grid grid-cols-2 "  align="left"  >
+<div  width="360"  align="left"  >
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sabbir7707&theme=blue_green)
 
