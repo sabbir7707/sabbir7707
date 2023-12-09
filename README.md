@@ -25,7 +25,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sabbir7707&theme=blue_green)
 
 </div>
-<div  className =" grid grid-cols-2 " align="left"  >
+<div  className =" grid grid-cols-2 "  align="left"  >
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sabbir7707&theme=blue_green)
 
