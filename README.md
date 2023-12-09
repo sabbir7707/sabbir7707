@@ -35,3 +35,74 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sabbir7707&theme=blue_green&utcOffset=8)
 
 </div>
+
+## 🚀  My Project
+
+
+
+
+
+
+#  BUILDING MANAGEMENT
+## Admin Dashboard  layout:
+-   AdminProfile
+-  Add Items
+-  Make Announcement
+-  Manage Items
+-  Agreement requests
+-  ALL Members
+
+
+##  Member DEashboard layout:
+-  My Apartment
+-  Make Payment
+-  Announcement 
+-  Payment History
+
+##  live link
+: https://sabbir-hosain.web.app/
+
+<br>
+<br>
+
+
+# BRANDSHOP
+
+## Add at least 5 Project features
+
+- Six types of cards are shown on the home page
+- Add Product System where products can be added
+- Update section where products can be updated
+- Details section where the details of the products can be seen
+- The products are shown according to the brand of the product
+
+##  live link
+:  https://brand-shop-3bb8e.web.app/
+
+
+<br>
+<br>
+
+
+# Online-Group-Study
+## Add at least 5 Project features:
+
+
+- Login features
+-  Registration
+-  Home page 
+-  Create assignment
+-  All assignment
+- Submited assignment
+-  view assignment
+-  Task assignment
+
+
+
+
+
+## Client side live link
+
+   Live link :https://assignment-11-2a620.firebaseapp.com/
+
+
