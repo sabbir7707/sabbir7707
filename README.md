@@ -2,13 +2,13 @@
 
 ##   🔭  Current Overview 
  
-🌱 I'm  exploring -MongoDB and NEXT js
+🌱 I'm  exploring -MongoDB and NEXT js.
 
-👯‍♀️ I'm looking -For collaborating on any unique projects 
+👯‍♀️ I'm looking -For collaborating on any unique projects .
 
-🤔 I'm   trying  - To develope my skill
+🤔 I'm   trying  - To develope my skill.
 
-⚡️ Fun fact - I watch anime when i get error
+⚡️ Fun fact - I watch anime when i get error.
 
 
 <br>
